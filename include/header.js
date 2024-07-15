@@ -26,11 +26,11 @@ document.write(`
                         </li>
                         <li><a href="about.html">About</a></li>
                         <li >
-                            <a href="javascript:void(0);">Services</a>
+                            <a href="service.html">Services</a>
                             
                         </li>
                         <li >
-                            <a href="javascript:void(0);">Shop</a>
+                            <a href="shop.html">Shop</a>
                           
                         </li>
                       

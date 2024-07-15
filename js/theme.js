@@ -427,8 +427,8 @@
         var map;
         map = new GMaps({
             el: "#google_map",
-            lat: 47.608314,
-            lng: -122.337264,
+            lat: 26.156350,
+            lng: 85.894320,
             zoom: 10,
         });
         var image = "";
