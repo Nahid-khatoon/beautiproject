@@ -55,7 +55,7 @@ document.write(`
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <p>© 2024 <a href="#" target="_blank" rel="noopener">BEAUTY PARLOUR</a> . All Rights Reserved.</p>
+                <p>© 2024 <a href="#" target="_blank" rel="noopener">BEAUTY PARLOUR</a> . All Rights Reserved. Nahid</p>
             </div>
             <div class="col-md-6">
                 <div class="copy_social">
