@@ -1,0 +1,447 @@
+.welcomeSection .sectionTitle{
+    margin-bottom: 62px;
+}
+.aboutSection{
+    padding-top: 50px;
+}
+.aboutSection .layer_img{
+    left: auto;
+    right: 1%;
+}
+.hasBeforeDecoration:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 76px;
+    background: url(../images/bg/9.png) no-repeat center top;
+}
+.hasAfterDecoration:after{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 74px;
+    background: url(../images/bg/10.png) no-repeat center bottom;
+}
+.serviceSection{
+    padding: 115px 0 200px;
+}
+.serviceSection .l_01{
+    left: auto;
+    right: 0;
+    top: -8%;
+}
+.serviceSection .l_02{
+    top: auto;
+    bottom: 0;
+    left: -1.1%;
+}
+.apointmentSection{
+    padding: 170px 0 190px;
+}
+.pricingSection {
+    background: url(../images/bg/4.jpg) no-repeat fixed right bottom #fff6f4;
+    padding: 115px 0 85px;
+}
+.pricingSection .l_03{
+    left: auto;
+    right: 0;
+    top: -18%;
+}
+.pl_area{
+    margin-right: 20px;
+}
+.pr_area{
+    margin-right: 0;
+    margin-left: 20px;
+}
+.clientSection{
+    padding: 85px 0;
+    position: relative;
+}
+.testimonialSlider{
+    padding: 20px 0 167px;
+}
+.blogSection{
+    background: #fff6f4;
+    padding: 80px 0 100px;
+}
+.blogSection .l_04{
+    top: auto;
+    bottom: 9%;
+    left: 1%;
+}
+.videoSection{
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+    margin-top: -130px;
+}
+.videoSection .layer_img{
+    top: auto;
+    bottom: 0;
+}
+.videoSection:after{
+    position: absolute;
+    left: 0;
+    top: 130px;
+    background: #f8f8f8;
+    content: '';
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.bg_f8f8{
+    background: #f8f8f8; 
+}
+.serviceSection2{
+    background: url(../images/bg/6.jpg) no-repeat left top;
+    padding: 143px 0 0;
+}
+.serviceSection2 .l_01 {
+    left: auto;
+    right: 0;
+    top: -8%;
+}
+.serviceSection2 .l_05{
+    top: auto;
+    z-index: 1;
+    bottom: -25%;
+}
+.testimonialSlider2{
+    padding: 80px 0 150px;
+}
+.testimonialSlider2 .testimoanial_area{
+    box-shadow: none;
+    background: url(../images/bg/21.png) no-repeat top right;
+}
+.funfactSection{
+    background: url(../images/bg/7.jpg) no-repeat center center / cover;
+    padding: 78px 0 121px;
+}
+.teamSection{
+    padding: 112px 0 78px;
+}
+.teamSection .col-lg-3{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.apointmentSection2{
+    padding: 0;
+    background: url(../images/bg/8.jpg) no-repeat fixed center center / cover;
+}
+.apointmentSection2 .appointment_form{
+    padding: 61px 110px 70px;
+    border: none;
+    margin: 0;
+}
+.row.no-gutters{
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.pd_85{
+    padding-bottom: 85px;
+}
+.aboutSection2{
+    padding: 0 0 145px 0;
+    overflow: hidden;
+    margin-top: -125px;
+    margin-right: 50px;
+}
+.aboutSection2 .layer_img{
+    top: auto;
+    bottom: 18%;
+}
+.aboutSection2 .abContent{
+    padding-left: 65px;
+    padding-right: 0;
+    margin-top: 234px;
+}
+.aboutSection2 .abContent h3{
+    left: -55px;
+}
+.ab_thumb{
+    position: relative;
+    z-index: 2;
+}
+.ab_thumb img{
+    width: auto;
+    max-width: none;
+}
+.serviceSection3 {
+    background: #fff6f4;
+    padding: 120px 0 57px;
+}
+.serviceSection3 .layer_img{
+    top: -8%;
+    left: auto;
+    right: 1%;
+}
+.serviceSection3 .serviceItem_01{
+    margin-bottom: 75px;
+}
+.as3{
+    background: url(../images/bg/10.jpg) no-repeat center center / cover;
+}
+.featureSection{
+    padding: 115px 0;
+}
+.featureSection .layer_img{
+    top: 19%;
+}
+.featureSection .abContent{
+    padding: 0 10px 0 0;
+    margin-top: 170px;
+}
+.featureSection .abContent h2:after{
+    display: none;
+}
+.teamSection2{
+    padding: 92px 0 62px;
+    background: url(../images/bg/11.jpg) no-repeat fixed center center / cover;
+}
+.teamSection2:after{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    content: '';
+    background: rgba(0, 0, 0, .8);
+}
+.teamSection2 .container{
+    position: relative;
+    z-index: 2;
+}
+.teamSection2 .sectionTitle h2,
+.teamSection2 .sectionTitle p{
+    color: #fff;
+}
+.teamSection2 .sectionTitle img{
+    opacity: .2;
+}
+.pricingSection2{
+    padding: 110px 0 80px;
+}
+.blogSection3{
+    background: #fff6f4;
+    padding: 75px 0 90px;
+}
+.aboutSection3{
+    padding: 170px 0 108px;
+}
+.aboutSection3 .layer_img{
+    top: 13%;
+    left: auto;
+    right: 1%;
+}
+.aboutSection3 .abContent{
+    padding: 0 10px 0 0;
+    margin-top: 95px;
+}
+.aboutSection3 .abContent p:not(.leads) {
+    margin: 0 0 15px;
+}
+.historySection{
+    padding: 0 0 185px;
+}
+.abHistory{
+    position: relative;
+}
+.abHistory h2{
+    font-size: 48px;
+    line-height: 58px;
+    font-weight: 700;
+    margin: 0 0 11px;
+}
+.abHistory img{
+    max-width: 100%;
+    height: auto;
+    margin: 0 0 6px;
+}
+.abHistory p{
+    margin: 0;
+}
+.icon_box_02.fib_02{
+    margin-left: 35px;
+    margin-right: -15px;
+}
+.featureSection2{
+    background: #fef6f4;
+    padding: 111px 0 105px;
+}
+.featureSection2 .sectionTitle img{
+    opacity: 1;
+}
+.featureSection2 .l_01 {
+    left: auto;
+    right: 0;
+    top: -8%;
+}
+.featureImg{
+    position: relative;
+    float: right;
+    margin: 65px -15px 0 0;
+}
+.tm2 .sectionTitle img{
+    opacity: .2;
+}
+.servicePage{
+    padding-bottom: 90px;
+}
+.servicePage .serviceItem_01 {
+    margin-bottom: 75px;
+}
+.servicePage2 {
+    padding-bottom: 110px;
+}
+.apointmentSection3{
+    padding-bottom: 150px;
+    background: url(../images/bg/26.png) no-repeat center center / cover #fff6f4;
+}
+.tm_meta.mb_103{
+    margin-bottom: 103px;
+}
+.tm_service{
+    margin-top: 75px;
+}
+.tm_service .serviceItem_01{
+    margin-bottom: 25px;
+}
+.tmCon p{
+    margin-top: 27px;
+    margin-bottom: 0;
+}
+.teamPage{
+    position: relative;
+    padding: 120px 0;
+}
+.teamPage .col-lg-3 {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.teamPage .layer_img {
+    top: auto;
+    left: -6%;
+    bottom: 5%;
+}
+.packagegPage{
+    overflow: hidden;
+    padding: 230px 0 80px;
+}
+.packagegPage .layer_img{
+    left: auto;
+    right: 0;
+}
+.pricingSection3{
+    padding: 0 0 120px;
+}
+.star_ratings{
+    position: relative;
+    margin: 14px 0 0;
+}
+.star_ratings img{
+    max-width: 100%;
+    height: auto;
+}
+.gallerypage{
+    overflow: hidden;
+    position: relative;
+    padding: 120px 0;
+}
+.imgMr{
+    margin-top: 47px;
+    margin-bottom: 35px;
+}
+.contactSection{
+    position: relative;
+    padding: 0 0 120px;
+}
+.contactSection .appointment_form{
+    border: none;
+    margin: 0;
+    padding: 0 50px 0 0;
+    background: transparent;
+}
+.contactSection .appointment_area{
+    padding-bottom: 118px;
+}
+.contactWrapper{
+    background: #fff6f4;
+    padding: 50px;
+}
+.contactSection h3{
+    font-size: 24px;
+    line-height: .8;
+    margin: 0 0 18px;
+}
+.contactSection p{
+    color: #879296;
+    margin: 0 0 42px;
+}
+.contactSection textarea{
+    height: 150px;
+}
+.headFont{
+    font-family: 'Playfair Display', serif !important;
+}
+.serviceSection.lessPaddings{
+    padding-bottom: 140px;
+}
+.testimonialSections .singleTestimonial{
+    margin-bottom: 30px;
+}
+.mt2{
+    margin-top: 2px;
+}
+
+
+
+@media (min-width: 1200px) and (max-width: 1600px){
+    .videoSection .layer_img{
+        left: -20%;
+    }
+    .serviceSection2 .l_05{
+        left: -20%;
+    }
+    .aboutSection2 .layer_img{
+        left: -16%;
+    }
+    .serviceSection3 .layer_img{
+        right: 0%;
+    }
+    .featureSection .layer_img {
+        left: -10%;
+    }
+    .packagegPage .layer_img{
+        right: -15%;
+    }
+    .teamPage .layer_img{
+        left: -23%;
+    }
+}
+@media (max-width: 1199px){
+    .aboutSection3 .layer_img,
+    .packagegPage .layer_img,
+    .teamPage .layer_img,
+    .videoSection .layer_img,
+    .blogSection .l_04,
+    .aboutSection .layer_img,
+    .pricingSection .l_03,
+    .serviceSection .l_02,
+    .featureSection .layer_img,
+    .serviceSection3 .layer_img,
+    .aboutSection2 .layer_img,
+    .serviceSection2 .l_05{
+        display: none;
+    }
+    .apointmentSection2 .appointment_form {
+        padding: 61px 40px 70px;
+    }
+    .featureSection .abContent{
+        padding-right: 0;
+    }
+}

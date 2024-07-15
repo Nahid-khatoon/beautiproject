@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'MakeOver';
+  src:  url('../fonts/MakeOver.eot?7evix4');
+  src:  url('../fonts/MakeOver.eot?7evix4#iefix') format('embedded-opentype'),
+    url('../fonts/MakeOver.ttf?7evix4') format('truetype'),
+    url('../fonts/MakeOver.woff?7evix4') format('woff'),
+    url('../fonts/MakeOver.svg?7evix4#MakeOver') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="mkov-"], [class*=" mkov-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'MakeOver' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mkov-bottle:before {
+  content: "\e900";
+}
+.mkov-candle:before {
+  content: "\e901";
+}
+.mkov-cup:before {
+  content: "\e902";
+}
+.mkov-facial:before {
+  content: "\e903";
+}
+.mkov-foot-massage:before {
+  content: "\e904";
+}
+.mkov-hand:before {
+  content: "\e905";
+}
+.mkov-leaf:before {
+  content: "\e906";
+}
+.mkov-massage:before {
+  content: "\e907";
+}
+.mkov-massage-oil:before {
+  content: "\e908";
+}
+.mkov-morter:before {
+  content: "\e909";
+}
+.mkov-shower:before {
+  content: "\e90a";
+}
+.mkov-snicker:before {
+  content: "\e90b";
+}
+.mkov-spa-drop:before {
+  content: "\e90c";
+}
+.mkov-spa-flower:before {
+  content: "\e90d";
+}
+.mkov-span-bag:before {
+  content: "\e90e";
+}
+.mkov-span-steam:before {
+  content: "\e90f";
+}
+.mkov-steam:before {
+  content: "\e910";
+}
+.mkov-stone:before {
+  content: "\e911";
+}
+.mkov-towel:before {
+  content: "\e912";
+}
+.mkov-Yoga:before {
+  content: "\e913";
+}

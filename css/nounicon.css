@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'noun';
+  src:  url('../fonts/noun.eot?xqjig2');
+  src:  url('../fonts/noun.eot?xqjig2#iefix') format('embedded-opentype'),
+    url('../fonts/noun.ttf?xqjig2') format('truetype'),
+    url('../fonts/noun.woff?xqjig2') format('woff'),
+    url('../fonts/noun.svg?xqjig2#noun') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="noun-"], [class*=" noun-"] {
+  font-family: 'noun' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.noun-noun_account_847124:before {
+  content: "\e900";
+}
+.noun-noun_Address_1271842:before {
+  content: "\e901";
+}
+.noun-noun_Arrow-Left_348642:before {
+  content: "\e902";
+}
+.noun-noun_Arrow_1896673:before {
+  content: "\e903";
+}
+.noun-noun_call_1624888:before {
+  content: "\e904";
+}
+.noun-noun_cart_1231977:before {
+  content: "\e905";
+}
+.noun-noun_digital-marketing_1016556:before {
+  content: "\e906";
+}
+.noun-noun_Email_485891:before {
+  content: "\e907";
+}
+.noun-noun_Graphic-Design_898458:before {
+  content: "\e908";
+}
+.noun-noun_integrity_1684637:before {
+  content: "\e909";
+}
+.noun-noun_Logo-Design_1246401:before {
+  content: "\e90a";
+}
+.noun-noun_reliability_883114:before {
+  content: "\e90b";
+}
+.noun-noun_Search_1534856:before {
+  content: "\e90c";
+}
+.noun-noun_SEO_2743372:before {
+  content: "\e90d";
+}
+.noun-noun_solution_2315942:before {
+  content: "\e90e";
+}
+.noun-noun_web-design_1118805:before {
+  content: "\e90f";
+}
+.noun-noun_web-design_1262220:before {
+  content: "\e910";
+}
